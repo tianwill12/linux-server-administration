@@ -31,16 +31,6 @@ This project focuses on practical Linux server administration using Ubuntu Serve
 | 4 | Firewall Configuration | Planned |
 | 5 | Server Monitoring | Planned |
 
-## Project Structure
-
-```text
-linux-server-administration/
-├── README.md
-├── documentation/
-├── scripts/
-└── screenshots/
-```
-
 ## Learning Outcomes
 Practical experience in Linux system administration, server configuration, network connectivity, security management, and system monitoring.
 
